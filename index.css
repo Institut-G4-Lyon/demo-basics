@@ -1,0 +1,44 @@
+body {
+    background-color: chocolate;
+}
+
+.laclasse {
+    margin: 20px;
+    background-color: darkmagenta;
+}
+
+.laclasse h1 {
+    color: blue;
+    padding: 10px 40px 10px 40px;
+}
+
+.laclasse iframe {
+    margin: 10px 40px 10px 40px;
+}
+
+.ladedi {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 18px;
+    color: aqua;
+}
+
+.ladedi img {
+    width: 8%;
+}
+
+.ladedi2 {
+    text-align: right;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: white;
+}
+
+.ladedi2 img {
+    width: 8%;
+}
+
+.lesdedis {
+    display: flex;
+    border-color: black;
+    border-radius: 2px;
+    border: dotted;
+}
