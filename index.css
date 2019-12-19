@@ -1,3 +1,12 @@
 body {
     background-color: chocolate;
 }
+
+.laclasse {
+    margin: 20px;
+    background-color: darkmagenta;
+}
+
+.laclasse h1 {
+    color: blue;
+}
