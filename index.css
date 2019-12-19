@@ -9,4 +9,18 @@ body {
 
 .laclasse h1 {
     color: blue;
+    padding: 10px 40px 10px 40px;
+}
+
+.laclasse iframe {
+    margin: 10px 40px 10px 40px;
+}
+
+.ladedi {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 18px;
+}
+
+.ladedi img {
+    width: 8%;
 }
